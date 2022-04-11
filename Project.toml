@@ -1,0 +1,18 @@
+name = "HBM"
+uuid = "c5c575c6-5416-4240-9aaa-76d1c42903e3"
+authors = ["Duy Anh <duy-anh.alexandre@polymtl.ca>"]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Extremes = "fe3fe864-1b39-11e9-20b8-1f96fa57382d"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Mamba = "5424a776-8be3-5c5b-a13f-3551f69ba0e6"
+NetCDF = "30363a11-5582-574a-97bb-aa9a979735b9"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
